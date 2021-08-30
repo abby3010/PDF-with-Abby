@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1014822905243",
+    "project_id": "pdfwithabby",
+    "storage_bucket": "pdfwithabby.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1014822905243:android:ea8811fef65e0482a8ed3e",
+        "android_client_info": {
+          "package_name": "com.codingabby.pdf_with_abby"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1014822905243-r2gj517hqmllkg7ovk6i14iv2o4otua4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcn-io1mVgpp93llr1hnl5voYxsi5Kb1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1014822905243-r2gj517hqmllkg7ovk6i14iv2o4otua4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
